@@ -1,3 +1,5 @@
+import { Container } from '@/styles/styles';
+
 export default function Home() {
-  return true;
+  return <Container>HELLO</Container>;
 }
